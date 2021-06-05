@@ -40,7 +40,7 @@ YOU MUST CHANGE SERIAL / SMBIOS INFORMATION. I HAVE RANDOMIZED THE SERIAL NUMBER
 | ------ | ------ |
 | Geekbench CPU Windows | 993pt Single / 2190pt Multi |
 | Geekbench GPU Windows | 13303pt |
-| Cinebench R23 Windows (Multicore)| 2442pt |
+| Cinebench R23 Windows | 2442pt |
 | Geekbench CPU Mac | 911pt Single / 2131pt Multi |
 | Geekbench GPU Mac | 4960pt |
 | Cinebench R23 Mac | 2415pt |
