@@ -10,11 +10,13 @@
 | Audio - Realtek ALC887 | Working using `-alcid=16` and `AppleALC.kext`  |
 | Ethernet - Realtek RTL8111 | Working using `RealtekRTL8111.kext` |
 | iServices | iMessage / Facetime not working, iCloud working |
+| Dual Boot | Working (using Win10 Pro) |
 
 ## Specs
 
 - H110-H4-CM2 Micro ATX Motherboard
 - Intel Core i3-6100 @ 3.7GHz
+- 16GB (2x8GB) Crucial DDR3L Ram 
 - EVGA Nvidia GTX 760 2GB OC Edition
 - 1x 500GB PNY SSD (Windows), 1x 400GB Sandisk SSD (MacOS), 1x 2TB Seagate HDD (Shared exFAT drive)
 - Rosewill Micro ATX Case
