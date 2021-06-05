@@ -23,3 +23,7 @@
 
 ## Notes
 Intel QuickSync does not work due to the motherboard not having an option to enable integrated graphics alongside the GTX 760. VDADecoder fails as well because of this. Seems to have no bearing on actual acceleration. Tested using 3D Chess, Minecraft has full GPU acceleration, RuneLite has full GPU acceleration. DRM does not work with Safari, must use Chrome / Firefox.
+
+## Links
+
+- My Reddit post showcasing the build (https://www.reddit.com/r/hackintosh/comments/meqygs/i36100_gtx760_running_big_sur_1123/)
