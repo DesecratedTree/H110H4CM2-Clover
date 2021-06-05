@@ -8,7 +8,7 @@
 | Component | Status |
 | ------ | ------ |
 | CPU / Power Management / Sleep | Working |
-| Graphics (Nvidia GTX 760) | Working with `WhateverGreen.kext` (Natively supported) |
+| Graphics (Nvidia GTX 760) | Working with `WhateverGreen.kext` (Natively supported) [READ NOTES]|
 | USB Ports | Working using `USBMap.kext` & `USBToolbox.kext` |
 | Audio - Realtek ALC887 | Working using `-alcid=16` and `AppleALC.kext` |
 | Ethernet - Realtek RTL8111 | Working using `RealtekRTL8111.kext` |
