@@ -34,6 +34,18 @@ Intel QuickSync does not work due to the motherboard not having an option to ena
 
 YOU MUST CHANGE SERIAL / SMBIOS INFORMATION. I HAVE RANDOMIZED THE SERIAL NUMBER BUT YOU WILL NEED TO USE YOUR OWN OR RANDOMIZE ANOTHER ONE FOR YOURSELF. I AM USING `iMacPro1,1` but `iMac17,1` works if your motherboard supports dual graphics (mine does not). If yours does support dual GPU, set the graphics ID to the proper headless ID to enable QuickSync and dual GPU.
 
+## Benchmarks
+
+| Benchmark | Score |
+| ------ | ------ |
+| Geekbench CPU Windows | 993pt Single / 2190pt Multi |
+| Geekbench GPU Windows | 13303pt |
+| Cinebench R23 Windows (Multicore)| 2442pt |
+| Geekbench CPU Mac | 911pt Single / 2131pt Multi 
+| Geekbench GPU Mac | 4960pt |
+| Cinebench r23 | 2415pt |
+
+
 ## Links
 
 - My Reddit post showcasing the build (https://www.reddit.com/r/hackintosh/comments/meqygs/i36100_gtx760_running_big_sur_1123/)
