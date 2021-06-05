@@ -1,4 +1,4 @@
-# H110-H4-CM2 Hackintosh Build
+# H110H4-CM2 Hackintosh Build
 
 ![Build](https://i.redd.it/vn2lr3oq2op61.jpg)
 
@@ -18,7 +18,7 @@
 
 ## Specs
 
-- H110-H4-CM2 Micro ATX Motherboard
+- H110H4-CM2 Micro ATX Motherboard
 - Intel Core i3-6100 @ 3.7GHz
 - 16GB (2x8GB) Crucial DDR3L Ram 
 - EVGA Nvidia GTX 760 2GB OC Edition
